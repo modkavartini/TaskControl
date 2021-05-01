@@ -20,3 +20,5 @@ A Rainmeter Skin that allows you to control music playback from your taskbar.
 * Right click on the skin and select `Edit`.
 * Under the `[Variables]` section, you can edit the Editable parts according to your needs.
 * Save the `.ini` file and Refresh the skin to see your changes.
+
+#### Note: This skin only supports [WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying) as of now.
