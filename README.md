@@ -5,8 +5,8 @@ A Rainmeter Skin that allows you to control music playback from your taskbar.
 ![TaskControlWhenPlaying](https://i.imgur.com/IzoGtz9.png)
 
 ### v1.2.2
-* Added a new `Icon Scheme` feature, allowing to switch icons seamlessly.
 ![IconScheme](https://i.imgur.com/SvPB8VC.png)
+* Added a new `Icon Scheme` feature, allowing to switch icons seamlessly.
 
 ## Requirements
 * [Rainmeter v4.4](https://www.rainmeter.net) or later.
