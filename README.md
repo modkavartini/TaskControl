@@ -3,7 +3,7 @@ A Rainmeter Skin that allows you to control music playback from your taskbar.
 
 ### Preview
 ![TaskControl](https://i.imgur.com/MAe7o7B.png)
-![TaskControlWhenPlaying](https://i.imgur.com/c4zo6eq.png)
+![TaskControlWhenPlaying](https://i.imgur.com/zBY6CEE.png)
 
 ### v1.2.2
 ![IconScheme](https://i.imgur.com/Dg638PV.png) ![IconScheme2](https://i.imgur.com/u4S1HH6.png)
