@@ -14,7 +14,7 @@ A Rainmeter Skin that allows you to control music playback from your taskbar.
 
 ### v1.3.2
 ![IconScheme](https://i.imgur.com/QMskrYu.png) ![IconScheme2](https://i.imgur.com/Ar2QkvD.png)
-* Added a third `Icon Scheme`. The skin now has filled, round and circular schemes.
+* Added a third `Icon Scheme`. The skin now has filled, round and outlined schemes.
 
 ## Requirements
 * [Rainmeter v4.4](https://www.rainmeter.net) or later.
