@@ -33,4 +33,4 @@ A Rainmeter Skin that allows you to control music playback from your taskbar.
 #### Note:
 - This skin only supports [WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying) as of now.
 - [Guide to install WebNowPlaying for Spotify](https://github.com/khanhas/spicetify-cli/wiki/Guide-for-Rainmeter-user)
-- [WebNowPlaying for Browsers](https://github.com/khanhas/spicetify-cli/wiki/Guide-for-Rainmeter-user)
+- [WebNowPlaying for Browsers](https://github.com/tjhrulz/WebNowPlaying#extension-links)
