@@ -22,8 +22,8 @@ A Rainmeter Skin that allows you to control music playback from your taskbar.
 ## Install
 * Go to [Releases](https://github.com/ModkaVartini/TaskControl/releases) and download the latest version of TaskControl.
 * Install the skin using the rainmeter skin installer.
-* Load the skin and position it on your taskbar.
 * Go to `Manage Rainmeter`, set the position of the skin to `Stay topmost`.
+* Load the skin and position it on your taskbar.
 
 ## Customization
 * Right click on the skin and select `Edit`.
